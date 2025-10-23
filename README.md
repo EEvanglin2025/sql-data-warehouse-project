@@ -4,3 +4,5 @@ This project showcases an end-to-end data warehousing and analytics solution —
 
 # 🧩Data Architecture
 The data architecture in this project follows the Medallion Architecture framework — organized into **Bronze, Silver, and Gold** layers for structured and efficient data processing.
+<img width="802" height="481" alt="image" src="https://github.com/user-attachments/assets/81816093-bff4-4e31-8596-b7672d5c5123" />
+
